@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Local databases & secrets
+*.db
+.env
+uploads/*
+!uploads/.gitkeep
+
+# Node
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# IDE
+.idea/
+.vscode/
