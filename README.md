@@ -255,14 +255,6 @@ docker compose exec backend python seed.py
 - Evaluation harness for reply quality and citation precision
 - Customer satisfaction survey capture (replace demo CSAT)
 
-## Upwork Portfolio Case Study
+## License
 
-This project demonstrates full-stack AI engineering skills including AI ticket analysis, sentiment detection, priority classification, escalation detection, RAG-based knowledge base search, AI reply generation, human approval workflows, support analytics, FastAPI backend development, React frontend development, PostgreSQL database design, Qdrant vector database integration, and production-style SaaS architecture.
-
-### How to explain this to Upwork clients
-
-> “I built an AI customer support copilot that analyzes tickets, drafts human-approved replies with knowledge base citations, detects escalation risk, and surfaces support analytics — the same building blocks used in modern AI helpdesks.”
-
----
-
-Built as a portfolio MVP for AI chatbots, RAG systems, AI automation, AI customer support tools, and full-stack SaaS development.
+This project is licensed under the [MIT License](LICENSE).
